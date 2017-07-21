@@ -34,6 +34,11 @@ Parrit is Life.
 
 9. Your Bot is now alive. Say something within your chosen channel to make it wake up. There is a small delay before the first SQUARK so be patient. 
 
+### Tips:
+1. _To access the file directory in your Command-Line-Interface. Hold Shift and press RMB in the folder. A prompt to open your Command-Line-Interface should show._
+2. **To stop the bot, perform CTRL-C within your Command-Line-Interface.**
+
+
 **SECONDARY DISCLOSURE:**
 **I built this bot after a few friends began spamming a parrot within a discord. The bot itself turned out to be so funny I decided to make this public.**
 **I TAKE NO RESPONCIBILITY FOR THIS GLORIOUS MEME DESTROYING YOUR DISCORD SERVER**
