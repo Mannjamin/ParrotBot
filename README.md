@@ -26,7 +26,7 @@ Parrit is Life.
  
     Change "INSERT_NAME_OF_CHANNEL_HERE" to the name of your chosen Discord Channel.
     
-    **THIS IS NECESSARY. If you do not do this, your discord server may blow up with parrots and you will not be able to delete them all. Please also note, I take no responcibility for any user who uses this bot without properly handling it.
+    **THIS IS NECESSARY. If you do not do this, your discord server may blow up with parrots and you will not be able to delete them all. Please also note, I take no responcibility for any user who uses this bot without properly handling it.**
     
     This is looping bot. It will not stop unless you tell it to. It is imperitive it only functions in one channel.**
    
