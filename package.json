@@ -7,9 +7,6 @@
     "discord.js": "^11.1.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "s!test"
-  },
   "author": "The Mann",
   "license": "ISC",
   "optionalDependencies": {
