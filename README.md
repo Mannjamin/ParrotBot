@@ -17,6 +17,9 @@ Parrit is Life.
 2. Un-zip the file into a suitable workspace location on your drive.
 3. Locate the file and open it in a Command-Line-Interface such as CMD or Powershell. 
 4. input "npm install discord.js"
+  **You will need the latest version of Node.JS to use the NPM Package Manager
+  
+  
 5. Once the download is complete, Open the config.JSON under json_files and input your Bot Token.
 
     _(If you have not done this yet, please go to this guide https://twentysix26.github.io/Red-Docs/red_guide_bot_accounts/)_
