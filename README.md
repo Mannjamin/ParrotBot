@@ -1,5 +1,5 @@
 # ParrotBot
-![SQUARK SQUARK!!!!!!!!!!!!!!!!!](https://images.discordapp.net/attachments/334003104137871370/337973807060877313/parrot.jpg)
+![SQUARK SQUARK!!!!!!!!!!!!!!!!!](https://images.discordapp.net/attachments/334003104137871370/337974684073066496/parrot1.jpg)
 
 
 The result of a programming mad-Mann conversing with Meme Lovers.
